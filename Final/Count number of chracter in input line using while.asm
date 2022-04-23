@@ -36,6 +36,6 @@ var db ?
        int 21h
         
         
-        exit:
+        exit:                   
         main endp
     end main

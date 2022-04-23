@@ -8,9 +8,9 @@
         
         mov cx,4
         
-        mov al,20;first number
+        mov al,100;first number
         mov bl,5 ;difference between two number
-        mov bh,0 ;initialize bh as sum
+        mov bh,5 ;initialize bh as sum
         
         top:
         add bh,al
